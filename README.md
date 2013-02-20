@@ -1,5 +1,5 @@
 ![JMMP](http://i.imgur.com/lw4AT.png)
-# JMMP (Jola Bolaji, Mark Chege, Melvin Chien, Patrick Chen)
+# [JMMP](http://jmmp.github.com) (Jola Bolaji, Mark Chege, Melvin Chien, Patrick Chen)
 
 ## License
 All files belong to their respective owners unless otherwise stated. Please follow their respective licenses and usage rights.
