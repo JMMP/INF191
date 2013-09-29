@@ -4,7 +4,7 @@
 ## License
 All files belong to their respective owners unless otherwise stated. Please follow their respective licenses and usage rights.
 
-All files in the **anteaternetwork** and **jmmp** directories are Copyright © 2013 JMMP with all rights reserved. Please ask for permission to use any of the contents by submitting an issue for this repository or contacting @melvinchien. Thank you!
+All files in the **anteaternetwork** and **jmmp** directories are Copyright © 2013 JMMP with all rights reserved. Please ask for permission to use any of the contents by submitting an issue for this repository or contacting [@melvinchien](http://git.io/melvin). Thank you!
 
 ## anteaternetwork
 Original work by JMMP for the [Anteater Network](http://alumni.uci.edu/anteater-network/).
